@@ -1,10 +1,6 @@
 {
-    "token": "enter-your-token-here",
-    "password": "discord-password",
-    "prefix": "!!",
-    
-    "nitro_sniper": true, 
-    "giveaway_sniper": true,
+    "token": "Nzc5NTUyODYxODI2MzE4MzU3.X7iPQg.l551b_ypSUeIiSyDlFjD6OfDlQ8",
+    "password": "fakeasspass"
 
     "stream_url": "https://twitch.tv/souljaboy",
     "tts_language": "en"
